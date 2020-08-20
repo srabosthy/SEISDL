@@ -12,7 +12,7 @@
             <h2>This is Heading</h2>
         </div>
         <div>
-            <p>Hi,I'm Prama</p>
+            <p>Hi,I'm Bosta</p>
         </div>
     </div>
 
